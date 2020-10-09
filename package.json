@@ -4,7 +4,8 @@
   "description": "",
   "main": "source/index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start": "node source/index.js"
   },
   "author": "",
   "license": "ISC",
